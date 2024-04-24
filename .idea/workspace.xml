@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80b401b5-2b03-4dc5-b158-54341a0789fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Module3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baitap2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/CSSReponsive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/src/CSSdemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/src/demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/src/demoFormBootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/src/demoReponsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/src/democss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/src/demoformBootstrap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/src/fixed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSSReponsive/src/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Cosodulieu trong MySQL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DangPhuocQuyMD3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoFormBootstrap/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minitest3md3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minitestmd3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flexbox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flexbox/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sql-procedure-quanlydetai.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2fXcHhky9qvtym9scjtBPbFVjoz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80b401b5-2b03-4dc5-b158-54341a0789fb" name="Changes" comment="" />
+      <created>1713950781558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713950781558</updated>
+      <workItem from="1713950782455" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
